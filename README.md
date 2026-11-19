@@ -1,4 +1,4 @@
-# 名刺つづり / MeishiTrace
+# MeishiTrace
 
 iPhone向け名刺管理アプリのサポートサイトです。
 
